@@ -3,6 +3,11 @@ dmenu - dynamic menu
 dmenu is an efficient dynamic menu for X.
 
 
+Set upstream
+------------
+    git remote add upstream git://git.suckless.org/dmenu
+
+
 Requirements
 ------------
 In order to build dmenu you need the Xlib header files.
